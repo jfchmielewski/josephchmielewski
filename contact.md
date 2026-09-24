@@ -1,8 +1,4 @@
- --- 
- layout: default 
- title: Contact 
- permalink: /contact/
- ---
+ ---  layout: default  title: Contact  permalink: /contact/ ---
  
  — [Blog](/blog/) · [Contact](/contact/) —
  You can reach me at:
