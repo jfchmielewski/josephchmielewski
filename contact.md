@@ -1,4 +1,5 @@
  --- layout: default title: Contact ---
+ — [Blog](/blog/) · [Contact](/contact/) —
  You can reach me at:
  jchmielewski@gmail.com
  https://www.linkedin.com/in/jfchmielewski/
