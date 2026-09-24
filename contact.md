@@ -1,4 +1,9 @@
- --- layout: default title: Contact ---
+ --- 
+ layout: default 
+ title: Contact 
+ permalink: /contact/
+ ---
+ 
  — [Blog](/blog/) · [Contact](/contact/) —
  You can reach me at:
  jchmielewski@gmail.com
